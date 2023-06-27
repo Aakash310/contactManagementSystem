@@ -27,8 +27,3 @@ Usage of findBy and delete methods using different name patterns
 
 Updates:
 In order to have easy development , created branch h2_database which uses in memory h2 database .
-
-h2-database & aop-brach has following updates
-
-Aspectj is used for implementing cross cutting concern like logging and session checker
-As part of Aspectj , we can learn usage of annotation like Aspect,Point Cut expression,Around & Before advice types.
