@@ -1,4 +1,4 @@
-##A Simple Contact management Application implemented using Spring Boot & Spring Data JPA
+#A Simple Contact management Application implemented using Spring Boot & Spring Data JPA
 
 This Application is built for learning Spring boot , Hibernate with Spring Data JPA , Spring Security.It doesn't concentrate much on UI part.
 
